@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "A simple JSON packer/unpacker for JS with hooks to allow custom packing/unpacking",
   "main": "simple-packer.js",
+  "dependencies": {
+    "simple-types": ">= 0.0.1"
+  },
   "scripts": {
     "test": "node ./tests.js"
   },
