@@ -1,0 +1,24 @@
+{
+  "name": "simple-packer",
+  "version": "0.0.1",
+  "description": "A simple JSON packer/unpacker for JS with hooks to allow custom packing/unpacking",
+  "main": "simple-packer.js",
+  "scripts": {
+    "test": "node ./tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/somesocks/simple-packer.git"
+  },
+  "keywords": [
+    "json",
+    "packing",
+    "types"
+  ],
+  "author": "James Larsen (somesocks@gmail.com)",
+  "license": "Apache v2",
+  "bugs": {
+    "url": "https://github.com/somesocks/simple-packer/issues"
+  },
+  "homepage": "https://github.com/somesocks/simple-packer"
+}
